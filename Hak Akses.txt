@@ -1,0 +1,9 @@
+- Admin :
+	Username : irgi
+	Password : irgiman12
+- Kasir :
+	Username : anggit
+	Password : 12345
+- Owner :
+	Username : hes
+	Password : hes123
